@@ -42,3 +42,6 @@
     margin-right: 10px;
      
 }
+.btn:hover{
+    background-color: lightgray;
+}
